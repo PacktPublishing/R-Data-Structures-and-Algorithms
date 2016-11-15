@@ -20,7 +20,8 @@ Software and Hardware List
 
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
-| 1        | R version 3.3.0                     | Windows, Mac OS X, and Linux (Any) |                                                 | 2        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
+| 1        | R version 3.3.0                     | Windows, Mac OS X, and Linux (Any) |
+| 2        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
 
 ##Related Products
 * [R for Data Science](https://www.packtpub.com/big-data-and-business-intelligence/r-data-science?utm_source=Github&utm_medium=Repository&utm_campaign=9781784390860)
