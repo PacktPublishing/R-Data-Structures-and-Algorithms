@@ -7,7 +7,7 @@ The code will look like the following:
 ```
 if (test expression)
 {
-Statement upon condition is true
+  Statement upon condition is true
 }
 ```
 You will need a good understanding of R or another programming language. Preliminary experience of programming and data analysis will be helpful as well. You will need to appreciate algorithms that can be applied in scale to build applications.
