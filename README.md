@@ -18,7 +18,7 @@ Package in R can be installed using install.packages(“Package-name”)
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-10)
 
-Software and Hardware List
+### Software and Hardware List
 
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
