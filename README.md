@@ -1,8 +1,8 @@
 [![GitHub issues](https://img.shields.io/github/issues/PacktPublishing/R-Data-Structures-and-Algorithms.svg)](https://github.com/PacktPublishing/R-Data-Structures-and-Algorithms/issues)   [![GitHub forks](https://img.shields.io/github/forks/PacktPublishing/R-Data-Structures-and-Algorithms.svg)](https://github.com/PacktPublishing/R-Data-Structures-and-Algorithms/network)   [![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/R-Data-Structures-and-Algorithms.svg)](https://github.com/PacktPublishing/R-Data-Structures-and-Algorithms/stargazers)   [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/PacktPublishing/R-Data-Structures-and-Algorithms/master/License)
 
-#R Data Structures and Algorithms
+# R Data Structures and Algorithms
 This is the code repository for [R Data Structures and Algorithms](https://www.packtpub.com/application-development/r-data-structures-and-algorithms?utm_source=Github&utm_medium=Repository&utm_campaign=9781786465153), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
-##Instructions and Navigations
+## Instructions and Navigations
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
 The code will look like the following:
@@ -25,7 +25,7 @@ Software and Hardware List
 | 1        | R version 3.3.0                     | Windows, Mac OS X, and Linux (Any) |
 | 2        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
 
-##Related Products
+## Related Products
 * [R for Data Science](https://www.packtpub.com/big-data-and-business-intelligence/r-data-science?utm_source=Github&utm_medium=Repository&utm_campaign=9781784390860)
 
 * [R Graph Essentials](https://www.packtpub.com/big-data-and-business-intelligence/r-graph-essentials?utm_source=Github&utm_medium=Repository&utm_campaign=9781783554553)
@@ -33,6 +33,6 @@ Software and Hardware List
 * [Introduction to R Programming [Video]](https://www.packtpub.com/big-data-and-business-intelligence/introduction-r-programming-video?utm_source=Github&utm_medium=Repository&utm_campaign=9781786463869)
 
 
-###Suggestions and Feedback
+### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
 
