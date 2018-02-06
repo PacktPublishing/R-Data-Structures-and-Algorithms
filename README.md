@@ -14,8 +14,6 @@ if (test expression)
   Statement upon condition is true
 }
 ```
-Please follow through the hardware and software requirements provided with this book. The reader must have a decent knowledge of R programming.
-[Click here](https://www.packtpub.com/sites/default/files/downloads/RDataStructuresandAlgorithms_ColorImages.pdf) to get the colored images.
 
 You will need a good understanding of R or another programming language. Preliminary experience of programming and data analysis will be helpful as well. You will need to appreciate algorithms that can be applied in scale to build applications.
 
@@ -29,6 +27,8 @@ With the following software and hardware list you can run all code files present
 | -------- | ------------------------------------| -----------------------------------|
 | 1        | R version 3.3.0                     | Windows, Mac OS X, and Linux (Any) |
 | 2        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
+
+**[Click here](https://www.packtpub.com/sites/default/files/downloads/RDataStructuresandAlgorithms_ColorImages.pdf) to get the colored images.**
 
 ## Related Products
 * [R for Data Science](https://www.packtpub.com/big-data-and-business-intelligence/r-data-science?utm_source=Github&utm_medium=Repository&utm_campaign=9781784390860)
