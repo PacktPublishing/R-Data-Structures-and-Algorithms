@@ -33,6 +33,9 @@ With the following software and hardware list you can run all code files present
 * [Introduction to R Programming [Video]](https://www.packtpub.com/big-data-and-business-intelligence/introduction-r-programming-video?utm_source=Github&utm_medium=Repository&utm_campaign=9781786463869)
 
 
+## Other books by the author
+* [R Deep Learning Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/r-deep-learning-cookbook)
+
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
 
