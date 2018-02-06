@@ -14,6 +14,9 @@ if (test expression)
   Statement upon condition is true
 }
 ```
+Please follow through the hardware and software requirements provided with this book. The reader must have a decent knowledge of R programming.
+[Click here](https://www.packtpub.com/sites/default/files/downloads/RDataStructuresandAlgorithms_ColorImages.pdf) to get the colored images.
+
 You will need a good understanding of R or another programming language. Preliminary experience of programming and data analysis will be helpful as well. You will need to appreciate algorithms that can be applied in scale to build applications.
 
 Package in R can be installed using install.packages(“Package-name”)
