@@ -33,7 +33,7 @@ With the following software and hardware list you can run all code files present
 ## Related Products
 * R for Data Science ([[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/r-data-science?utm_source=Github&utm_medium=Repository&utm_campaign=9781784390860), [[Amazon]](https://www.amazon.com/dp/1784390860))
 
-* R Graph Essentials [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/r-graph-essentials?utm_source=Github&utm_medium=Repository&utm_campaign=9781783554553), [[Amazon]](https://www.amazon.com/dp/178355455X))
+* R Graph Essentials ([[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/r-graph-essentials?utm_source=Github&utm_medium=Repository&utm_campaign=9781783554553), [[Amazon]](https://www.amazon.com/dp/178355455X))
 
 
 ## Other books by the author
