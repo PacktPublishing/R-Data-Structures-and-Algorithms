@@ -31,11 +31,9 @@ With the following software and hardware list you can run all code files present
 **We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/RDataStructuresandAlgorithms_ColorImages.pdf).**
 
 ## Related Products
-* [R for Data Science](https://www.packtpub.com/big-data-and-business-intelligence/r-data-science?utm_source=Github&utm_medium=Repository&utm_campaign=9781784390860)
+* R for Data Science [Packt](https://www.packtpub.com/big-data-and-business-intelligence/r-data-science?utm_source=Github&utm_medium=Repository&utm_campaign=9781784390860), [Amazon](https://www.amazon.com/dp/1784390860)
 
-* [R Graph Essentials](https://www.packtpub.com/big-data-and-business-intelligence/r-graph-essentials?utm_source=Github&utm_medium=Repository&utm_campaign=9781783554553)
-
-* [Introduction to R Programming [Video]](https://www.packtpub.com/big-data-and-business-intelligence/introduction-r-programming-video?utm_source=Github&utm_medium=Repository&utm_campaign=9781786463869)
+* R Graph Essentials [Packt](https://www.packtpub.com/big-data-and-business-intelligence/r-graph-essentials?utm_source=Github&utm_medium=Repository&utm_campaign=9781783554553), [Amazon](https://www.amazon.com/dp/178355455X)
 
 
 ## Other books by the author
