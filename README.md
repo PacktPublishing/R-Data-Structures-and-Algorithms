@@ -53,12 +53,12 @@ With the following software and hardware list you can run all code files present
 
 ## Get to Know the Authors
 
-<p><img src="https://raw.githubusercontent.com/PacktPublishing/R-Data-Structures-and-Algorithms/master/A1.png" alt="" width="259" height="261" align="left" /></p>
-**Dr. PKS Prakash**
+<p><img src="https://raw.githubusercontent.com/PacktPublishing/R-Data-Structures-and-Algorithms/master/A1.png" alt="" width="125" height="130" align="left" /></p>
+<p>Dr. PKS Prakash</p>
 <p>Dr. PKS Prakash is a data scientist and author.He has spent the last 12 years in developing many data science solutions in several practical areas in healthcare, manufacturing, pharmaceuticals, and e-commerce. He currently works as the data science manager at ZS Associates and is the co-founder of Warwick Analytics, a spin-off from University of Warwick, UK.</p> 
----
-<p><img src="https://raw.githubusercontent.com/PacktPublishing/R-Data-Structures-and-Algorithms/master/A2.jpg" alt="" width="259" height="261" align="left" /></p>
-**Achyutuni Sri Krishna Rao**
+
+<p><img src="https://raw.githubusercontent.com/PacktPublishing/R-Data-Structures-and-Algorithms/master/A2.jpg" alt="" width="125" height="130" align="left" /></p>
+<p>Achyutuni Sri Krishna Rao</p>
 <p>Achyutuni Sri Krishna Rao is a data scientist, a civil engineer, and an author. He has spent the last 4 years in developing many data science solutions to solve problems for leading companies in the healthcare, pharmaceutical and manufacturing domain. He currently works as data science consultant at ZS Associates.</p>
 [GitHub](https://github.com/krishna7189)
 
