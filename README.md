@@ -3,7 +3,23 @@
 # R Data Structures and Algorithms
 <a href="https://www.packtpub.com/application-development/r-data-structures-and-algorithms?utm_source=Github&amp;utm_medium=Repository&amp;utm_campaign=9781786465153"><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/5153_5666_R%20Data%20Structures%20and%20Algorithms.png" alt="Learning Vulkan" height="256px" align="right"></a>
 
-This is the code repository for [R Data Structures and Algorithms](https://www.packtpub.com/application-development/r-data-structures-and-algorithms?utm_source=Github&utm_medium=Repository&utm_campaign=9781786465153), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
+This is the code repository for [R Data Structures and Algorithms](https://www.packtpub.com/application-development/r-data-structures-and-algorithms?utm_source=Github&utm_medium=Repository&utm_campaign=9781786465153), published by Packt. 
+**Increase speed and performance of your applications with efficient data structures and algorithms**
+
+## What is this book about?
+We begin by answering the fundamental question: why data structures? In this book, we cover not only classical data structures, but also functional data structures.
+This book covers the following exciting features:
+* The intricacies of high performance and scalable programming using R
+*	The rationality behind data structures and algorithms
+*	Fundamentals of arrays and linked-based data structures
+*	Dynamic programming (Knapsack) and randomized algorithms
+
+This easy-to-read book is packed with real-world examples, and with its fast-paced nature, it will improve the productivity of an R programmer and improve the performance of R applications. If you feel this book is for you, get your [copy](https://www.amazon.com/Data-Structures-Algorithms-Dr-Prakash-ebook/dp/B01IF7NLIC/ref=sr_1_2?ie=UTF8&qid=1521014648&sr=8-2&keywords=R+Data+Structures+and+Algorithms) today!
+
+### Amazon Reviews
+
+![Amazon reviews](https://github.com/PacktPublishing/R-Data-Structures-and-Algorithms/blob/master/Amazon.png)
+
 ## Instructions and Navigations
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
