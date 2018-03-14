@@ -60,6 +60,8 @@ With the following software and hardware list you can run all code files present
 Dr. PKS Prakash is a data scientist and author.He has spent the last 12 years in developing many data science solutions in several practical areas in healthcare, manufacturing, pharmaceuticals, and e-commerce. He currently works as the data science manager at ZS Associates and is the co-founder of Warwick Analytics, a spin-off from University of Warwick, UK. 
 
 
+
+
 <a><img src="https://github.com/PacktPublishing/R-Data-Structures-and-Algorithms/blob/master/A2.jpg" alt="Achyutuni Sri Krishna Rao" height="120px" align="left"></a>
 
 ### Achyutuni Sri Krishna Rao
