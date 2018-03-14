@@ -55,14 +55,14 @@ With the following software and hardware list you can run all code files present
 
 <a><img src="https://github.com/PacktPublishing/R-Data-Structures-and-Algorithms/blob/master/A1.png" alt="Dr. PKS Prakash" height="256px" align="right"></a>
 
-**Dr. PKS Prakash	**
+### Dr. PKS Prakash
 
 Dr. PKS Prakash is a data scientist and author.He has spent the last 12 years in developing many data science solutions in several practical areas in healthcare, manufacturing, pharmaceuticals, and e-commerce. He currently works as the data science manager at ZS Associates and is the co-founder of Warwick Analytics, a spin-off from University of Warwick, UK. 
 
 
 <a><img src="https://github.com/PacktPublishing/R-Data-Structures-and-Algorithms/blob/master/A2.jpg" alt="Achyutuni Sri Krishna Rao" height="256px" align="right"></a>
 
-**Achyutuni Sri Krishna Rao**
+### Achyutuni Sri Krishna Rao
 
 Achyutuni Sri Krishna Rao is a data scientist, a civil engineer, and an author. He has spent the last 4 years in developing many data science solutions to solve problems for leading companies in the healthcare, pharmaceutical and manufacturing domain. He currently works as data science consultant at ZS Associates.
 [GitHub](https://github.com/krishna7189)
