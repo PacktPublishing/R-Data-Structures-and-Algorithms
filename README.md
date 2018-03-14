@@ -60,6 +60,7 @@ With the following software and hardware list you can run all code files present
 <p><img src="https://raw.githubusercontent.com/PacktPublishing/R-Data-Structures-and-Algorithms/master/A2.jpg" alt="" width="125" height="130" align="left" /></p>
 <p>Achyutuni Sri Krishna Rao</p>
 <p>Achyutuni Sri Krishna Rao is a data scientist, a civil engineer, and an author. He has spent the last 4 years in developing many data science solutions to solve problems for leading companies in the healthcare, pharmaceutical and manufacturing domain. He currently works as data science consultant at ZS Associates.</p>
+
 [GitHub](https://github.com/krishna7189)
 
 
