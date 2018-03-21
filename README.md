@@ -3,7 +3,9 @@
 # R Data Structures and Algorithms
 <a href="https://www.packtpub.com/application-development/r-data-structures-and-algorithms?utm_source=Github&amp;utm_medium=Repository&amp;utm_campaign=9781786465153"><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/5153_5666_R%20Data%20Structures%20and%20Algorithms.png" alt="Learning Vulkan" height="256px" align="right"></a>
 
-This is the code repository for [R Data Structures and Algorithms](https://www.packtpub.com/application-development/r-data-structures-and-algorithms?utm_source=Github&utm_medium=Repository&utm_campaign=9781786465153), published by Packt. 
+This is the code repository for [R Data Structures and Algorithms](https://www.packtpub.com/application-development/r-data-structures-and-algorithms?utm_source=Github&utm_medium=Repository&utm_campaign=9781786465153), published by Packt.
+
+
 **Increase speed and performance of your applications with efficient data structures and algorithms**
 
 ## What is this book about?
