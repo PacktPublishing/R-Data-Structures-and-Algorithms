@@ -56,10 +56,10 @@ With the following software and hardware list you can run all code files present
 * R Graph Essentials [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/r-graph-essentials?utm_source=Github&utm_medium=Repository&utm_campaign=9781783554553) [[Amazon]](https://www.amazon.com/dp/178355455X)
 
 ## Get to Know the Authors
-
+<p><img src="https://raw.githubusercontent.com/PacktPublishing/R-Data-Structures-and-Algorithms/master/A1.png" alt="" width="125" height="130" align="left" /></p>
 **Dr. PKS Prakash**
 <p>Dr. PKS Prakash is a data scientist and author.He has spent the last 12 years in developing many data science solutions in several practical areas in healthcare, manufacturing, pharmaceuticals, and e-commerce. He currently works as the data science manager at ZS Associates and is the co-founder of Warwick Analytics, a spin-off from University of Warwick, UK.</p> 
-
+<p><img src="https://raw.githubusercontent.com/PacktPublishing/R-Data-Structures-and-Algorithms/master/A2.jpg" alt="" width="125" height="130" align="left" /></p>
 **Achyutuni Sri Krishna Rao**
 <p>Achyutuni Sri Krishna Rao is a data scientist, a civil engineer, and an author. He has spent the last 4 years in developing many data science solutions to solve problems for leading companies in the healthcare, pharmaceutical and manufacturing domain. He currently works as data science consultant at ZS Associates.</p>
 
