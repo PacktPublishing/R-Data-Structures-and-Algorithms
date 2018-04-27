@@ -18,7 +18,7 @@ This book covers the following exciting features:
 
 This easy-to-read book is packed with real-world examples, and with its fast-paced nature, it will improve the productivity of an R programmer and improve the performance of R applications. If you feel this book is for you, get your [copy](https://www.amazon.com/Data-Structures-Algorithms-Dr-Prakash-ebook/dp/B01IF7NLIC/ref=sr_1_2?ie=UTF8&qid=1521014648&sr=8-2&keywords=R+Data+Structures+and+Algorithms) today!
 
-<a href="https://www.packtpub.com/" target="_blank"><img src="https://raw.githubusercontent.com/VishalMewadaPackt/Pictures-Repo/master/GitHub.png" 
+<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner" target="_blank"><img src="https://raw.githubusercontent.com/VishalMewadaPackt/Pictures-Repo/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
 
 ### Amazon Reviews
